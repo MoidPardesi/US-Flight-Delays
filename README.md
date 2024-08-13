@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c196266f-4f08-4eb1-8640-88430622486d)# US Flight Delays
+**US Flight Delays**
 
 I'm thrilled to share my experience from my first significant project during my Master's in Big Data Analytics. We focused on understanding flight delays using a comprehensive dataset from US airlines spanning 2011 to 2015. This project was not just about learning to manipulate large datasets but also about gaining real-world insights that could help improve airline operations and passenger experiences.
 
